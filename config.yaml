@@ -1,0 +1,6 @@
+mysql:
+  username: root
+  password: l123456
+  path: localhost
+  post: 3306
+  db-name: dwzhihu
